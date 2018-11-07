@@ -1,0 +1,58 @@
+header {
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    padding: 10px;
+    margin: 0;
+
+}
+nav {
+
+  text-align: center;
+}
+ul {
+  margin: 0;
+}
+.menu {
+  text-decoration: none;
+  color: white;
+
+
+}
+li {
+  display: inline-block;
+  background-color: lightgray;
+  padding: 5px;
+  font-weight: bold;
+}
+h2 {
+  background-color: aquamarine;
+  padding-left: 5px;
+  font-size: 25px
+  margin-top: 15px;
+
+}
+span {
+  font-weight: bold;
+  border-bottom: 2px yellow solid;
+}
+.tile {
+  display: inline-block;
+  max-width: 30%;
+}
+img{
+  width: 100%;
+}
+p {
+  background-color: yellow;
+  text-align: center;
+  margin-top: 0;
+  font-size: 15px;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
